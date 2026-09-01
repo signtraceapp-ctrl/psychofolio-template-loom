@@ -1,0 +1,86 @@
+{
+  "site": {
+    "name": "Uzm. Psk. Deniz Ornek",
+    "title": "Uzman Klinik Psikolog",
+    "email": "ornek@psychofolio.com",
+    "address": "Istanbul, Turkiye",
+    "copyright": "Tum haklari saklidir."
+  },
+  "home": {
+    "badge": "LOOM",
+    "headline": "Iki iplik,",
+    "headlineAccent": "bir desen",
+    "headlineSuffix": ".",
+    "description": "Cift ve aile terapisinde iliskilerin yeniden orulmesine eslik ediyorum. Birlikte, daha guclu bir desen olusturabilirsiniz.",
+    "cta": "Iletisime Gecin",
+    "cardTitle": "Birlikte Orulen",
+    "cardSubtitle": "Iliski ve Cift Terapisi",
+    "quote": "Biz, birbirimizin aynasidir.",
+    "quoteAuthor": "Harville Hendrix"
+  },
+  "services": [
+    {
+      "title": "Cift Terapisi",
+      "desc": "Iletisim tikanikliklari, duygusal kopukluk ve guven onarimi icin yapilandirilmis cift terapi sureci. Emotionally Focused Therapy (EFT) cercevesinde.",
+      "duration": "75 dk",
+      "method": "Yuzyuze"
+    },
+    {
+      "title": "Evlilik Oncesi Danismanlik",
+      "desc": "Evlilik oncesi beklenti uyumu, iletisim becerileri ve potansiyel catisma alanlarin onceden kesfedilmesi.",
+      "duration": "60 dk",
+      "method": "Yuzyuze / Cevrimici"
+    },
+    {
+      "title": "Aile Terapisi",
+      "desc": "Aile ici roller, nesiller arasi oruntuler ve aile dinamiklerinin yeniden yapilandirilmasi icin sistemik yaklasim.",
+      "duration": "75 dk",
+      "method": "Yuzyuze"
+    },
+    {
+      "title": "Bireysel Iliski Danismanligi",
+      "desc": "Tekrarlayan iliski kaliplari, baglanma sorunlari ve duygusal yakinlik zorluklar uzerine bireysel calisma.",
+      "duration": "50 dk",
+      "method": "Yuzyuze / Cevrimici"
+    }
+  ],
+  "about": {
+    "title": "Hakkimda",
+    "intro": "Cift ve aile terapisi alaninda calisan bir klinik psikolog olarak, iliskilerin onarilmasina ve guclenmesine eslik ediyorum.",
+    "credentials": [
+      { "year": "\u2014", "title": "Lisans Egitimi", "detail": "Psikoloji alaninda lisans derecesi" },
+      { "year": "\u2014", "title": "Yuksek Lisans", "detail": "Aile ve cift terapisi alaninda uzmanlik" },
+      { "year": "\u2014", "title": "EFT Egitimi", "detail": "Duygu Odakli Terapi (EFT) ileri duzey egitim" }
+    ]
+  },
+  "approach": {
+    "title": "Terapi Yaklasimim",
+    "intro": "Her iliski, iki farkli hikayenin bir araya gelmesiyle olusur. Terapide amacim, bu hikayelerin birbirini zenginlestiren bir desene donusmesine yardimci olmaktir.",
+    "principles": [
+      { "title": "Duygu Odakli Yaklasim", "desc": "Iliskideki duygusal dongulelri anlayarak, guveni ve yakinligi yeniden insa eden bir terapi sureci sunuyorum." },
+      { "title": "Sistemik Bakis", "desc": "Bireyleri iliskisel balamlari icinde anliyorum. Her partnerin katkisi ve etkisi birlikte inceleniyor." },
+      { "title": "Guvenli Bag Kurma", "desc": "Terapide once guvenli bir iliski zemini olusturuyoruz. Bu zemin, zor konulari ele almak icin gerekli guveni saglar." },
+      { "title": "Pratik Beceriler", "desc": "Terapi odasinda ogrenilen iletisim ve duygu duzenleme becerileri, gunluk yasama aktarilabilir somut araclardir." }
+    ]
+  },
+  "articles": [
+    { "title": "Cift Terapisinde Iletisim: Dinlemek ve Duyulmak", "category": "Cift Terapisi", "readTime": "8 dk", "date": "Ornek tarih" },
+    { "title": "Baglanma Stilleri ve Iliski Dinamikleri", "category": "Baglanma", "readTime": "7 dk", "date": "Ornek tarih" },
+    { "title": "Evlilikte Catisma Cozumu Yontemleri", "category": "Evlilik", "readTime": "6 dk", "date": "Ornek tarih" },
+    { "title": "Duygusal Kopukluk: Nedenler ve Onarim Yollari", "category": "Iliski", "readTime": "9 dk", "date": "Ornek tarih" }
+  ],
+  "faq": [
+    { "q": "Cift terapisine esim gelmek istemiyor, ne yapabilirim?", "a": "Baslangicta bireysel gorusmelerle baslayabilirsiniz. Zamanla esinizin de surece dahil olmasi teşvik edilir, ancak zorunlu degildir." },
+    { "q": "Evlilik oncesi danismanlik ne ise yarar?", "a": "Evlilik oncesi danismanlik, ciftlerin beklentilerini, iletisim tarzlarini ve potansiyel catisma alanlarini onceden kesfetmelerine yardimci olur." },
+    { "q": "Terapi sureci ne kadar surer?", "a": "Cift terapisi genellikle 12-20 seans arasinda planlanir. Sure, calisilan konulara ve ciftin ihtiyaclarina gore degisir." },
+    { "q": "Seans ucreti ne kadar?", "a": "Seans bilgisi icin iletisime gecin." }
+  ],
+  "contact": {
+    "title": "Iletisim",
+    "intro": "Iliskinizi guclendirmek icin birlikte calisabiliriz. Ilk adimi atmaniz yeterli.",
+    "formName": "Adiniz",
+    "formEmail": "E-posta",
+    "formMessage": "Mesajiniz",
+    "formSubmit": "Gonder"
+  }
+}
