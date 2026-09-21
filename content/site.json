@@ -1,86 +1,187 @@
 {
   "site": {
-    "name": "Uzm. Psk. Deniz Ornek",
-    "title": "Uzman Klinik Psikolog",
-    "email": "ornek@psychofolio.com",
-    "address": "Istanbul, Turkiye",
-    "copyright": "Tum haklari saklidir."
+    "name": "Uzm. Psk. Örnek Psikolog",
+    "title": "Klinik Psikolog · Çift ve Aile Terapisti",
+    "email": "merhaba@ornekterapist.com",
+    "phone": "+90 (216) 000 00 00",
+    "address": "Bağdat Cad. örnek No: 45, Kadıköy - İstanbul",
+    "hours": "Hafta içi 11:00–20:00 · Cmt 10:00–15:00",
+    "copyright": "Tüm hakları saklıdır."
   },
   "home": {
     "badge": "LOOM",
-    "headline": "Iki iplik,",
+    "headline": "İki iplik,",
     "headlineAccent": "bir desen",
     "headlineSuffix": ".",
-    "description": "Cift ve aile terapisinde iliskilerin yeniden orulmesine eslik ediyorum. Birlikte, daha guclu bir desen olusturabilirsiniz.",
-    "cta": "Iletisime Gecin",
-    "cardTitle": "Birlikte Orulen",
-    "cardSubtitle": "Iliski ve Cift Terapisi",
-    "quote": "Biz, birbirimizin aynasidir.",
-    "quoteAuthor": "Harville Hendrix"
+    "description": "Çift ve aile terapisinde ilişkilerin yeniden örülmesine eşlik ediyorum. Birlikte, daha güçlü bir desen oluşturabilirsiniz.",
+    "cta": "İletişime Geçin",
+    "cardTitle": "Birlikte Örülen",
+    "cardSubtitle": "İlişki ve Çift Terapisi",
+    "quote": "Kilim iki iplikle dokunur; hiçbiri diğerinin rengini almaz.",
+    "quoteAuthor": "Anadolu Dokuma Geleneği"
   },
   "services": [
     {
-      "title": "Cift Terapisi",
-      "desc": "Iletisim tikanikliklari, duygusal kopukluk ve guven onarimi icin yapilandirilmis cift terapi sureci. Emotionally Focused Therapy (EFT) cercevesinde.",
+      "title": "Çift Terapisi",
+      "desc": "Tekrarlayan çatışma döngüleri, güven onarımı ve duygusal bağın yeniden dokunması.",
       "duration": "75 dk",
-      "method": "Yuzyuze"
-    },
-    {
-      "title": "Evlilik Oncesi Danismanlik",
-      "desc": "Evlilik oncesi beklenti uyumu, iletisim becerileri ve potansiyel catisma alanlarin onceden kesfedilmesi.",
-      "duration": "60 dk",
-      "method": "Yuzyuze / Cevrimici"
+      "method": "Gottman / EFT"
     },
     {
       "title": "Aile Terapisi",
-      "desc": "Aile ici roller, nesiller arasi oruntuler ve aile dinamiklerinin yeniden yapilandirilmasi icin sistemik yaklasim.",
+      "desc": "Aile içi roller, kuşaklar arası aktarımlar ve birlikte yaşamın yeniden düzenlenmesi.",
       "duration": "75 dk",
-      "method": "Yuzyuze"
+      "method": "Sistemik"
     },
     {
-      "title": "Bireysel Iliski Danismanligi",
-      "desc": "Tekrarlayan iliski kaliplari, baglanma sorunlari ve duygusal yakinlik zorluklar uzerine bireysel calisma.",
+      "title": "Evlilik Öncesi Danışmanlık",
+      "desc": "Beklentiler, değerler ve çatışma dilinin evlilik öncesinde birlikte haritalanması.",
+      "duration": "60 dk",
+      "method": "Yapılandırılmış program"
+    },
+    {
+      "title": "Ebeveyn Danışmanlığı",
+      "desc": "Çocuk ve ergenle kurulan bağın güçlendirilmesi; tutarlı ebeveynlik dili.",
       "duration": "50 dk",
-      "method": "Yuzyuze / Cevrimici"
+      "method": "Bağlanma temelli"
+    },
+    {
+      "title": "Ayrılık ve Boşanma Süreci",
+      "desc": "Saygılı ayrılık, ortak ebeveynlik planı ve yeniden kurulan hayatlar.",
+      "duration": "60 dk",
+      "method": "Arabuluculuk duyarlı"
+    },
+    {
+      "title": "Çevrimiçi Seans",
+      "desc": "Farklı şehirlerdeki çiftler ve aileler için güvenli video görüşme düzeni.",
+      "duration": "60 dk",
+      "method": "Tüm hizmetler"
     }
   ],
   "about": {
-    "title": "Hakkimda",
-    "intro": "Cift ve aile terapisi alaninda calisan bir klinik psikolog olarak, iliskilerin onarilmasina ve guclenmesine eslik ediyorum.",
+    "title": "Hakkında",
+    "intro": "Bir kilim ustası iplikleri zorla aynı renge boyamaz; her ipliğin rengini koruyarak ikisinin birlikte oluşturabileceği deseni arar. Çift ve aile terapisinde işim de bu: kimseyi değiştirmeye değil, aranızdaki dokumayı yeniden görünür kılmaya çalışırım.",
     "credentials": [
-      { "year": "\u2014", "title": "Lisans Egitimi", "detail": "Psikoloji alaninda lisans derecesi" },
-      { "year": "\u2014", "title": "Yuksek Lisans", "detail": "Aile ve cift terapisi alaninda uzmanlik" },
-      { "year": "\u2014", "title": "EFT Egitimi", "detail": "Duygu Odakli Terapi (EFT) ileri duzey egitim" }
+      {
+        "year": "-",
+        "title": "Klinik psikoloji temeli",
+        "detail": "Psikoloji lisansı ve klinik psikoloji yüksek lisansı; ilişki dinamikleri üzerine ilk araştırmalar."
+      },
+      {
+        "year": "-",
+        "title": "Çift terapisi uzmanlaşması",
+        "detail": "Gottman Metodu I-II ve Duygu Odaklı Terapi (EFT) eğitimleri; 8 yılda 500'ün üzerinde çiftle çalışma."
+      },
+      {
+        "year": "-",
+        "title": "Aile sistemleri",
+        "detail": "Sistemik aile terapisi formasyonu; ebeveyn-ergen çatışmaları ve geniş aile dinamikleri."
+      },
+      {
+        "year": "-",
+        "title": "Süpervizyon ve eğitim",
+        "detail": "Çift terapisti adaylarına süpervizyon; ilişki atölyeleri ve evlilik öncesi eğitim programları."
+      }
     ]
   },
   "approach": {
-    "title": "Terapi Yaklasimim",
-    "intro": "Her iliski, iki farkli hikayenin bir araya gelmesiyle olusur. Terapide amacim, bu hikayelerin birbirini zenginlestiren bir desene donusmesine yardimci olmaktir.",
+    "title": "Terapi Yaklaşımım",
+    "intro": "Her ilişki, iki farklı hikayenin bir araya gelmesiyle oluşur. Terapide amacım, bu hikayelerin birbirini zenginleştiren bir desene dönüşmesine yardımcı olmaktır.",
     "principles": [
-      { "title": "Duygu Odakli Yaklasim", "desc": "Iliskideki duygusal dongulelri anlayarak, guveni ve yakinligi yeniden insa eden bir terapi sureci sunuyorum." },
-      { "title": "Sistemik Bakis", "desc": "Bireyleri iliskisel balamlari icinde anliyorum. Her partnerin katkisi ve etkisi birlikte inceleniyor." },
-      { "title": "Guvenli Bag Kurma", "desc": "Terapide once guvenli bir iliski zemini olusturuyoruz. Bu zemin, zor konulari ele almak icin gerekli guveni saglar." },
-      { "title": "Pratik Beceriler", "desc": "Terapi odasinda ogrenilen iletisim ve duygu duzenleme becerileri, gunluk yasama aktarilabilir somut araclardir." }
+      {
+        "title": "Döngüyü haritalamak",
+        "desc": "İlk seanslarda tekrarlayan çatışma döngüsü birlikte çizilir: kim ne zaman geriliyor, hangi hamle hangi hamleyi çağırıyor."
+      },
+      {
+        "title": "İhtiyaçları adlandırmak",
+        "desc": "Suçlamaların altındaki bağlanma ihtiyaçları görünür kılınır: duyulmak, güvenmek, değerli hissetmek."
+      },
+      {
+        "title": "Yeni diyaloğu kurmak",
+        "desc": "Yapılandırılmış konuşma düzenleriyle çift, gerilim anında bile sırayla dinleyip sırayla konuşmayı öğrenir."
+      },
+      {
+        "title": "Bağı pekiştirmek",
+        "desc": "Yeni desen günlük hayata taşınır: ritüeller, onarım cümleleri ve düzenli bakım görüşmeleri."
+      }
     ]
   },
   "articles": [
-    { "title": "Cift Terapisinde Iletisim: Dinlemek ve Duyulmak", "category": "Cift Terapisi", "readTime": "8 dk", "date": "Ornek tarih" },
-    { "title": "Baglanma Stilleri ve Iliski Dinamikleri", "category": "Baglanma", "readTime": "7 dk", "date": "Ornek tarih" },
-    { "title": "Evlilikte Catisma Cozumu Yontemleri", "category": "Evlilik", "readTime": "6 dk", "date": "Ornek tarih" },
-    { "title": "Duygusal Kopukluk: Nedenler ve Onarim Yollari", "category": "Iliski", "readTime": "9 dk", "date": "Ornek tarih" }
+    {
+      "title": "Kavga değil, döngü: aynı tartışmayı neden tekrar ederiz?",
+      "category": "İlişki",
+      "excerpt": "Çiftlerin %69'u çözümsüz kalıcı farklar üzerine tartışır. Önemli olan konu değil, dans.",
+      "readTime": "7 dk",
+      "date": ""
+    },
+    {
+      "title": "Dört atlı: ilişkiyi yıpratan konuşma biçimleri",
+      "category": "İletişim",
+      "excerpt": "Eleştiri, küçümseme, savunuculuk, duvar örme - ve her birinin panzehiri.",
+      "readTime": "6 dk",
+      "date": ""
+    },
+    {
+      "title": "Çocuğun önünde tartışmak: ne zaman zararlı, ne zaman öğretici?",
+      "category": "Ebeveynlik",
+      "excerpt": "Araştırmalar çatışmanın kendisinden çok onarımın görünürlüğünün belirleyici olduğunu söylüyor.",
+      "readTime": "8 dk",
+      "date": ""
+    },
+    {
+      "title": "Duygusal banka hesabı: küçük anların birikimi",
+      "category": "İlişki",
+      "excerpt": "Büyük jestler değil, günde birkaç saniyelik yöneliş anları ilişkiyi taşır.",
+      "readTime": "5 dk",
+      "date": ""
+    },
+    {
+      "title": "Saygılı ayrılık mümkün mü?",
+      "category": "Ayrılık",
+      "excerpt": "Bittiğinde bile iyi dokunmuş bir ayrılık, iki hayatı ve çocukları korur.",
+      "readTime": "7 dk",
+      "date": ""
+    },
+    {
+      "title": "Dinlemek, beklemekten fazlasıdır",
+      "category": "İletişim",
+      "excerpt": "Sıranızı bekleyerek 'dinlemek' ile gerçekten duymak arasındaki fark ve pratik alıştırmalar.",
+      "readTime": "6 dk",
+      "date": ""
+    }
   ],
   "faq": [
-    { "q": "Cift terapisine esim gelmek istemiyor, ne yapabilirim?", "a": "Baslangicta bireysel gorusmelerle baslayabilirsiniz. Zamanla esinizin de surece dahil olmasi teşvik edilir, ancak zorunlu degildir." },
-    { "q": "Evlilik oncesi danismanlik ne ise yarar?", "a": "Evlilik oncesi danismanlik, ciftlerin beklentilerini, iletisim tarzlarini ve potansiyel catisma alanlarini onceden kesfetmelerine yardimci olur." },
-    { "q": "Terapi sureci ne kadar surer?", "a": "Cift terapisi genellikle 12-20 seans arasinda planlanir. Sure, calisilan konulara ve ciftin ihtiyaclarina gore degisir." },
-    { "q": "Seans ucreti ne kadar?", "a": "Seans bilgisi icin iletisime gecin." }
+    {
+      "q": "Partnerim gelmek istemiyor - tek başıma gelsem olur mu?",
+      "a": "Evet. İlişki iki kişiliktir ama değişim çoğu zaman tek kişinin farklı bir ilmek atmasıyla başlar. Tek taraflı çalışmayla bile döngüler belirgin şekilde değişebilir; partneriniz hazır olduğunda sürece katılabilir."
+    },
+    {
+      "q": "Terapide taraf tutar mısınız?",
+      "a": "Hayır. Çift terapisinde 'danışanım' ikinizden biri değil, aranızdaki ilişkinin kendisidir. Her seansta iki ipliğin de rengini korumak benim sorumluluğum."
+    },
+    {
+      "q": "Her seans kavga edeceğimizden korkuyoruz.",
+      "a": "Seanslar serbest tartışma alanı değildir; yapılandırılmış konuşma düzenleri kullanılır. Gerilim yükselirse süreç yavaşlatılır - tezgahta iplik gerginse zorlamaz, gevşetiriz."
+    },
+    {
+      "q": "Kaç seans sürer?",
+      "a": "Yapılandırılmış değerlendirme 3 seans sürer; sonrasında hedeflere göre genellikle 12-20 seanslık bir çerçeve konuşulur. İlerleme düzenli olarak birlikte gözden geçirilir."
+    },
+    {
+      "q": "Ayrılmaya karar verirsek terapi başarısız mı olmuş olur?",
+      "a": "Hayır. Terapinin amacı ilişkiyi her koşulda sürdürmek değil, ikinizin de netlikle ve saygıyla karar verebilmesidir. Bazen en iyi dokunan desen, saygılı bir vedadır."
+    },
+    {
+      "q": "Görüşmeler gizli mi? Bireysel görüşmelerde söylenenler paylaşılır mı?",
+      "a": "Seanslar gizlidir. Bireysel görüşmelerdeki paylaşım ilkeleri ilk seansta açıkça konuşulur; 'sır tutma' tuzağına düşmemek için şeffaf bir çerçeve kurarız."
+    }
   ],
   "contact": {
-    "title": "Iletisim",
-    "intro": "Iliskinizi guclendirmek icin birlikte calisabiliriz. Ilk adimi atmaniz yeterli.",
-    "formName": "Adiniz",
+    "title": "İletişim",
+    "intro": "Çift olarak da tek başınıza da yazabilirsiniz. Yazdıklarınız yalnızca ilk görüşmeyi planlamak için kullanılır.",
+    "formName": "Adınız",
     "formEmail": "E-posta",
-    "formMessage": "Mesajiniz",
-    "formSubmit": "Gonder"
+    "formMessage": "Mesajınız",
+    "formSubmit": "İlmeği At"
   }
 }
