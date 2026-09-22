@@ -302,7 +302,7 @@ export function HomeClient({ content: c }: { content: SiteContent }) {
                 backdropFilter: "blur(6px)",
               }}
             >
-              {c.site.name.toUpperCase()} · ÇİFT VE AİLE TERAPİSİ
+              {c.site.name.toUpperCase()} · {c.site.title.toUpperCase()}
             </p>
           </div>
 
